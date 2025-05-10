@@ -416,7 +416,7 @@
                 <!-- Image Placeholder 1 -->
                 <div class="card overflow-hidden h-80 image-placeholder image-zoom" data-caption="Your smile lights up my world">
                     <i class="fas fa-heart"></i>
-                    [Your beautiful image will go here]  <img src="1.jpg" />
+                     <img src="1.jpg" />
                 </div>
                 
                 <!-- Image Placeholder 2 -->
