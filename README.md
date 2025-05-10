@@ -427,7 +427,7 @@
                 <!-- Image Placeholder 3 -->
                 <div class="card overflow-hidden h-80 image-placeholder image-zoom" data-caption="Beauty beyond words">
                     <i class="fas fa-moon"></i>
-                     <img src="https://github.com/Lucky0000002/Rashi/blob/main/image/17.jpg?raw=true" />
+                     <img alt="https://github.com/Lucky0000002/Rashi/blob/main/image/17.jpg?raw=true" />
                 </div>
                 
                 <!-- Image Placeholder 4 -->
