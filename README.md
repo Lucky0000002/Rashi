@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>For My Cuttie ❤️</title>
+    <title>For My Queen ❤️</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -388,7 +389,7 @@
         <div class="text-xs text-gray-500 ml-2">Tap the music</div>
     </div>
     <audio id="bgMusic" loop>
-        <source src="1234567890.mp3" type="audio/mpeg">
+        <source src="C:\Users\surya\Desktop\1234567890.mp3" type="audio/mpeg">
     </audio>
     
     <!-- Floating Hearts -->
@@ -400,7 +401,7 @@
     <!-- Header Section -->
     <header class="header-bg py-16 px-4 sm:px-8 relative overflow-hidden">
         <div class="max-w-6xl mx-auto text-center relative z-20">
-            <h1 class="text-4xl md:text-6xl font-bold text-pink-700 dancing-font mb-2 glow">For My <span id="namePlaceholder">Cuttie </span> ❤️</h1>
+            <h1 class="text-4xl md:text-6xl font-bold text-pink-700 dancing-font mb-2 glow">For My <span id="namePlaceholder">Beautiful Queen</span> ❤️</h1>
             <p class="text-lg md:text-xl text-pink-600 mb-8">You are divine, you are powerful, you are loved beyond measure</p>
             <div class="w-24 h-1 bg-pink-300 mx-auto mb-8"></div>
             <p class="text-pink-700 max-w-2xl mx-auto italic">"A woman's body is the temple of the divine. Your strength through this time is a testament to your sacred feminine power."</p>
@@ -410,24 +411,25 @@
     <!-- Main Content -->
     <main class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
         <!-- Gallery Section -->
-        <img src="13.jpg" />
+        <section class="mb-20">
             <h2 class="text-3xl md:text-4xl font-bold text-center text-pink-700 dancing-font mb-12">Moments of You That Steal My Heart</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- Image Placeholder 1 -->
                 <div class="card overflow-hidden h-80 image-placeholder image-zoom" data-caption="Your smile lights up my world">
                     <i class="fas fa-heart"></i>
-                    [img alt](https://github.com/Lucky0000002/Rashi/blob/main/image/17.jpg?raw=true)
+                    <img src="25.jpg"
                 </div>
                 
                 <!-- Image Placeholder 2 -->
                 <div class="card overflow-hidden h-80 image-placeholder image-zoom" data-caption="Eyes that speak volumes">
                     <i class="fas fa-star"></i>
+                    [Your beautiful image will go here]
                 </div>
                 
                 <!-- Image Placeholder 3 -->
                 <div class="card overflow-hidden h-80 image-placeholder image-zoom" data-caption="Beauty beyond words">
                     <i class="fas fa-moon"></i>
-                     <img alt="https://github.com/Lucky0000002/Rashi/blob/main/image/17.jpg?raw=true" />
+                    [Your beautiful image will go here]
                 </div>
                 
                 <!-- Image Placeholder 4 -->
