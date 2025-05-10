@@ -410,7 +410,7 @@
     <!-- Main Content -->
     <main class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
         <!-- Gallery Section -->
-        <section class="mb-20">
+        <img src="13.jpg" />
             <h2 class="text-3xl md:text-4xl font-bold text-center text-pink-700 dancing-font mb-12">Moments of You That Steal My Heart</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- Image Placeholder 1 -->
