@@ -422,13 +422,12 @@
                 <!-- Image Placeholder 2 -->
                 <div class="card overflow-hidden h-80 image-placeholder image-zoom" data-caption="Eyes that speak volumes">
                     <i class="fas fa-star"></i>
-                    [Your beautiful image will go here]
                 </div>
                 
                 <!-- Image Placeholder 3 -->
                 <div class="card overflow-hidden h-80 image-placeholder image-zoom" data-caption="Beauty beyond words">
                     <i class="fas fa-moon"></i>
-                    [Your beautiful image will go here]
+                     <img src="C:\Users\surya\Desktop\13.jpg" />
                 </div>
                 
                 <!-- Image Placeholder 4 -->
