@@ -400,7 +400,7 @@
     <!-- Header Section -->
     <header class="header-bg py-16 px-4 sm:px-8 relative overflow-hidden">
         <div class="max-w-6xl mx-auto text-center relative z-20">
-            <h1 class="text-4xl md:text-6xl font-bold text-pink-700 dancing-font mb-2 glow">For My <span id="namePlaceholder">Beautiful Queen</span> ❤️</h1>
+            <h1 class="text-4xl md:text-6xl font-bold text-pink-700 dancing-font mb-2 glow">For My <span id="namePlaceholder">Cuttie</span> ❤️</h1>
             <p class="text-lg md:text-xl text-pink-600 mb-8">You are divine, you are powerful, you are loved beyond measure</p>
             <div class="w-24 h-1 bg-pink-300 mx-auto mb-8"></div>
             <p class="text-pink-700 max-w-2xl mx-auto italic">"A woman's body is the temple of the divine. Your strength through this time is a testament to your sacred feminine power."</p>
@@ -416,7 +416,7 @@
                 <!-- Image Placeholder 1 -->
                 <div class="card overflow-hidden h-80 image-placeholder image-zoom" data-caption="Your smile lights up my world">
                     <i class="fas fa-heart"></i>
-                    [Your beautiful image will go here]
+                    [Your beautiful image will go here]  <img src="1.jpg" />
                 </div>
                 
                 <!-- Image Placeholder 2 -->
